@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\4Dev\\Ex_Files_NET_Programming_Intro\\Exercise Files\\Ch07 - C# Features\\07_04\\Finished\\UsingSample\\UsingStaticSample.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\4Dev\\Ex_Files_NET_Programming_Intro\\Exercise Files\\Ch06 - Creating a WPF App\\06_03\\Start\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
